@@ -1,16 +1,6 @@
-# flutter_demo
+# Demo Animation
 
-A new Flutter project.
+- [Chi tiết hướng dẫn trên website](https://www.aicodeday.com/tim-hieu-flutter-animation-qua-vi-du/)
 
-## Getting Started
+https://github.com/Barry0501/flutter_demo_on_blog/assets/34902237/5762c7f9-0529-4737-ac24-73df2cf21e63
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
