@@ -1,16 +1,13 @@
-# flutter_demo
+# Flutter project Demo on My Personal Blog
 
-A new Flutter project.
+- My personal blog: [https://www.aicodeday.com/](https://www.aicodeday.com/)
 
-## Getting Started
+## Danh sách tổng hợp:
+- [Flutter: Tips ẩn đi các file generate *.g/.dart, *.freezed.dart trong VSCode
+](https://www.aicodeday.com/flutter-tip-an-di-cac-file-generate-vscode/)
 
-This project is a starting point for a Flutter application.
+- [OpenCommit - Công cụ AI giúp bạn commit code chuyên nghiệp
+](https://www.aicodeday.com/gioi-thieu-open-commit-cach-su-dung/)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [Tìm hiểu Flutter Animation thông qua ví dụ thú vị
+](https://www.aicodeday.com/tim-hieu-flutter-animation-qua-vi-du/)
