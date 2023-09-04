@@ -32,4 +32,19 @@ extension LabelTypeExt on LabelType {
         return const Color(0xffF2E6E8);
     }
   }
+
+  String getTextDemo() {
+    switch (this) {
+      case LabelType.warning:
+        return 'Warning';
+      case LabelType.success:
+        return 'Success';
+      case LabelType.infor:
+        return 'Infor';
+      case LabelType.error:
+        return 'Error';
+      case LabelType.primary:
+        return 'Primary';
+    }
+  }
 }
