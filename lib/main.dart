@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'home_page.dart';
+import 'src/presentation/dashboard/dashboard_screen.dart';
 
 void main() {
   runApp(const MyApp());
@@ -17,8 +17,10 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primaryColor: Colors.blue,
         useMaterial3: false,
+        scaffoldBackgroundColor: const Color(0xff1C1A1E),
+        brightness: Brightness.dark
       ),
-      home: const HomePage(),
+      home: const DashboardScreen(),
     );
   }
 }
